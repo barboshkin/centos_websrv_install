@@ -1,4 +1,8 @@
 # centos_websrv_install
-1. Install centos minimal 
-2. sudo yum install git
-3. copy and run script
+- Install centos minimal 
+Actions in terminal
+
+sudo yum install git
+git clone https://github.com/barboshkin/centos_websrv_install.git
+cd centos_websrv_install
+sudo ./installweb.sh
